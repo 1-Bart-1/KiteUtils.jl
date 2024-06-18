@@ -125,7 +125,10 @@ $(TYPEDFIELDS)
     rel_nose_mass         = 0
     "mass of the top particle relative to the sum of top and side particles"
     rel_top_mass          = 0
+    "radius of the circle shape of the kite"
     radius                = 0
+    "distance between the center of the circle shape and the central bridle connection point"
+    bridle_center_distance = 0
     middle_length         = 0
     tip_length            = 0
 
