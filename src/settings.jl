@@ -98,6 +98,8 @@ $(TYPEDFIELDS)
 
     "file name of the 3D model of the kite for the viewer"
     model::String         = "data/kite.obj"
+    "number of aerodynamic surfaces in 3 line model"
+    aero_surfaces::Int64   = 10
     "name of the kite model to use (KPS3 or KPS4)"
     physical_model::String = ""
     "version of the model to use"
